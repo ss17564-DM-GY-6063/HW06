@@ -1,6 +1,7 @@
 # Theme
 I've chosen snowy days as the theme for my project. During my research for snow-related poetry, I came across a beautiful poem, "White Noise" by Barbara Vance.
-[the poem](![DQoYyW.jpg](https://imgpile.com/images/DQoYyW.jpg))
+
+![the poem](https://imgpile.com/images/DQoYyW.jpg)
 
 # The Animation and Text
 I decided to make the text gently fall down the screen, simulating snowflakes.
